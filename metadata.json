@@ -1,7 +1,7 @@
 {
-  "name": "Some operator",
-  "website": "https://www.example.com",
-  "description": "I operate on some data",
-  "logo": "https://www.example.com/logo.png",
+  "name": "Wes Floyd Test Operator",
+  "website": "https://www.isthisworking.com",
+  "description": "All Day I Dream About Operating",
+  "logo": "https://github.com/wesfloyd/test-da-operator/blob/main/wes-eigenlogo.png?raw=true",
   "twitter": "https://x.com/example"
 }
