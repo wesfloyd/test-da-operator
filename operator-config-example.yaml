@@ -25,10 +25,10 @@ eth_rpc_url: http://localhost:8545
 signer_type: local_keystore
 
 # Full path to local ecdsa private key store file
-private_key_store_path: <path-to>/test.ecdsa.key.json
+private_key_store_path: /home/wes/.eigenlayer/operator_keys/ecdsa-test-key-1.ecdsa.key.json
 
 # Full path to local bls private key store file
-bls_private_key_store_path: <path-to>/test.bls.key.json
+bls_private_key_store_path: /home/wes/.eigenlayer/operator_keys/bls-test-key-1.bls.key.json
 
 # Chain ID: 1 for mainnet, 5 for Goerli, 31337 for local
 chain_id: 5
