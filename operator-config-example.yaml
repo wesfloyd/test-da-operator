@@ -5,8 +5,8 @@
 operator:
   address: e342b6357c792a8a2cb0c2f0629b353add2f080e3019314e3d037d31156b6aa0
   earnings_receiver_address: e342b6357c792a8a2cb0c2f0629b353add2f080e3019314e3d037d31156b6aa0
-  delegation_approver_address:  address(0)
-  staker_opt_out_window_blocks: 1
+  delegation_approver_address:  0x0000000000000000000000000000000000000000
+  staker_opt_out_window_blocks: 0
   metadata_url: https://example.com/metadata.json
 
 # EigenLayer Slasher contract address
@@ -18,7 +18,7 @@ el_slasher_address: 0xD11d60b669Ecf7bE10329726043B3ac07B380C22
 bls_public_key_compendium_address: 0xc81d3963087Fe09316cd1E032457989C7aC91b19
 
 # ETH RPC URL to the ethereum node you are using for on-chain operations
-eth_rpc_url: http://localhost:8545
+eth_rpc_url: https://rpc.ankr.com/eth_goerli
 
 # Signer Type to use
 # Supported values: local_keystore
