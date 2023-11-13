@@ -3,11 +3,12 @@
 # To learn more about operator fields
 # https://github.com/Layr-Labs/eigenlayer-contracts/blob/92ccacc868785350973afc15e90a18dcd39fbc0b/src/contracts/interfaces/IDelegationManager.sol#L21:
 operator:
-  address: e342b6357c792a8a2cb0c2f0629b353add2f080e3019314e3d037d31156b6aa0
-  earnings_receiver_address: e342b6357c792a8a2cb0c2f0629b353add2f080e3019314e3d037d31156b6aa0
+  address: 0x301EBd04b194FF7dC8064CF229D9e0B3537f4CF7
+  earnings_receiver_address: 0x301EBd04b194FF7dC8064CF229D9e0B3537f4CF7
   delegation_approver_address:  0x0000000000000000000000000000000000000000
   staker_opt_out_window_blocks: 0
-  metadata_url: https://example.com/metadata.json
+  metadata_url: https://raw.githubusercontent.com/wesfloyd/test-da-operator/main/metadata.json
+
 
 # EigenLayer Slasher contract address
 # This will be provided by EigenLayer team
